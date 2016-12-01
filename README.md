@@ -3,6 +3,9 @@
 TOPs:
 
 1. https://github.com/jwasham/google-interview-university
+   http://steve-yegge.blogspot.in/2008/03/get-that-job-at-google.html
+   https://googleyasheck.com/what-you-need-to-know-for-your-google-interview-and-what-you-dont/
+   http://www.jasq.org/just-another-scala-quant/inverting-binary-trees-considered-harmful
 2. https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 
