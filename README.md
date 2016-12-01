@@ -1,7 +1,9 @@
 **Collection of useful to notes url**
 
 TOPs:
+
 1. https://github.com/jwasham/google-interview-university
+2. https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 
 Intermediate:
