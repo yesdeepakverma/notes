@@ -1,4 +1,4 @@
-**Collection of useful to notes url**
+**Collection of useful url**
 
 TOPs:
 
